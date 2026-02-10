@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Tandi</h1>
 <h3 align="center">A passionate about ML and AI from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish1455" alt="ashish1455" /></a> </p>
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashish1455)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working on [Joint Identification of RF signals](https://github.com/Ashish1455/Letter-and-Digit-Identification)
 
