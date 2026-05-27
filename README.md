@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Tandi</h1>
 <h3 align="center">A passionate about ML and AI</h3>
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashish1455)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-- 🔭 I’m currently working on [This](https://github.com/Ashish1455/Letter-and-Digit-Identification)
-
-- 🌱 I’m currently learning **Deep learning**
-
-- 👯 I’m looking to collaborate on [English Letter and digit identification](https://github.com/Ashish1455/Letter-and-Digit-Identification)
-
-- 📫 How to reach me **ashishtandi07@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brokensword145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brokensword145" height="30" width="40" /></a>
